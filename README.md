@@ -1,5 +1,8 @@
 # 🔍 LangChain-Debugger
 
+<img width="428" height="260" alt="image" src="https://github.com/user-attachments/assets/5c275341-6d49-4ab8-9220-92a16a8ee826" />
+
+
 **Visual debugging and optimization tool for LangChain applications**
 
 Monitor, analyze, and optimize your LLM chains in real-time with detailed performance metrics, cost breakdowns, and actionable optimization suggestions.
