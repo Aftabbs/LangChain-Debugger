@@ -10,7 +10,7 @@ Monitor, analyze, and optimize your LLM chains in real-time with detailed perfor
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![LangChain](https://img.shields.io/badge/langchain-0.1+-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
- 
+  
 ---
  
 ## 🌟 Features
