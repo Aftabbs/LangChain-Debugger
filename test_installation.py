@@ -5,7 +5,7 @@ import sys
 import importlib 
   
 
-def check_package(package_name):
+def check_package(package_name): 
     """Check if a package is installed"""
     try:
         importlib.import_module(package_name)
