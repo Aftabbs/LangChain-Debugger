@@ -5,7 +5,7 @@ Get started with LangChain Debugger in 5 minutes!
 ## Step 1: Installation (1 minute)
    
 ```bash   
-# Clone the repository 
+# Clone the repository  
 git clone https://github.com/yourusername/langchain-debugger.git
 cd langchain-debugger
 
